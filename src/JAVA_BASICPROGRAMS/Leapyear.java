@@ -10,7 +10,7 @@ public class Leapyear {
 
         if((year%4==0 && year%100!=0)||(year%400==0))
         {
-            System.out.println(year +" 10is leap year");
+            System.out.println(year +" is leap year");
         }
         else
         {
